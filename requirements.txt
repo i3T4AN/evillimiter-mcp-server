@@ -1,0 +1,5 @@
+mcp[cli]>=1.2.0
+httpx
+asyncio
+subprocess-tee>=0.4.1
+pydantic>=2.0.0
